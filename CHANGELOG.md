@@ -1,3 +1,10 @@
+# [2.59.0](https://github.com/souravdas142/revanced-patches/compare/v2.58.0...v2.59.0) (2022-09-18)
+
+
+### Features
+
+* backport patches compability to v17.34.35 ([cefb11c](https://github.com/souravdas142/revanced-patches/commit/cefb11c91770e58a465a6e916dc2d1e905c32786))
+
 # [2.58.0](https://github.com/revanced/revanced-patches/compare/v2.57.0...v2.58.0) (2022-09-18)
 
 
